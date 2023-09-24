@@ -1,1 +1,1 @@
-"# Smar-Home" 
+"# Smart-Home" 
